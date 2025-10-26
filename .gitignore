@@ -1,0 +1,8 @@
+# Ignore everything
+*
+
+# Except the notebook
+!lab4_variant12_clean.ipynb
+
+# Except .gitignore itself
+!.gitignore
